@@ -326,7 +326,7 @@ if submitted:
     social = email_results.get('social', [])
     if social:
         df_social = pd.DataFrame(social)
-        st.dataframe(df_social, use_container_width=True)
+        st.dataframe(df_social, width='stretch')
     else:
         st.info("No social platform usernames found or matched.")
 
