@@ -5,6 +5,9 @@ Supports both interactive Streamlit dashboard **and** traditional Python command
 
 ***
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://osint-email-ip.streamlit.app/)
+
+
 ## Features
 
 ### 🔎 Email OSINT
